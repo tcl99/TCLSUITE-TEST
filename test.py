@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import random
 import time
+import var
 
 st.write("Comeme los huevos, payaso")
 st.write("Here's our first attempt at using data to create a table:")
